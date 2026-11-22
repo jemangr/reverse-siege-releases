@@ -1,13 +1,13 @@
 {
   "name": "Bastion Breaker: Reverse Siege",
   "package": "app.jemangr.reversesiege",
-  "version": "1.2.0",
-  "version_code": 10200,
+  "version": "2.0.0",
+  "version_code": 20000,
   "release_date": "2026-11-22",
   "author": "Giannis",
   "website": "https://jemangr.app",
   "download_apk_url": "https://github.com/jemangr/reverse-siege-releases/releases/latest/download/reverse-siege.apk",
   "releases_url": "https://github.com/jemangr/reverse-siege-releases/releases",
-  "release_notes_el": "Έκδοση v1.2.0: 🏰 Sculpted Realms & 50-Chapter Campaign! Χειροποίητα 3D σμιλεμένα biomes από το Bastion Breaker, οργανικά καμπυλωτά πλακόστρωτα, 3D πέτρινα βάθρα/φυλάκια/γέφυρες/δέντρα, 50 Κεφάλαια σε 5 Πράξεις με αναλογική κλιμάκωση, Workshop έως Lv.10 & σύστημα διαφημίσεων Rewarded/Interstitial!",
-  "release_notes_en": "Version v1.2.0: 🏰 Sculpted Realms & 50-Chapter Campaign! Hand-painted 3D sculpted castle cliffs & lanterns, organic curved spline paths, 3D stone tower pads, bridges, guardhouses & trees, 50 proportional Chapters across 5 Acts, Lv.10 Workshop & 5-placement Rewarded/Interstitial ad architecture!"
+  "release_notes_el": "Έκδοση v2.0.0: 🏰 Μεγάλη Αναβάθμιση! Κλειδωμένη εκστρατεία 50 κεφαλαίων, Ημερήσια Πολιορκία, 8 ξεχωριστές αρχιτεκτονικές χαρτών, συνεχή τείχη & αυτόματα ευθυγραμμισμένες γέφυρες, 5 νέα 2.5D terrains, Tap-to-Aim δυνάμεις, Split φάλαγγας εν κινήσει & πραγματική ισορροπία δυσκολίας!",
+  "release_notes_en": "Version v2.0.0: 🏰 Major Gameplay & Visual Overhaul! Progressive locked 50-Chapter Campaign + Daily Siege, 8 distinct castle layouts (T1-T8), continuous Curtain Walls, exact spline-aligned Bridges, 5 WebGL2 2.5D outdoor/citadel terrains, Tap-to-Aim limited powers, mid-siege Squad Split, Mortar/Frost/Acid counters & verified 50-stage balance!"
 }
