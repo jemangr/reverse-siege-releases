@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="58" viewBox="0 0 420 58" role="img" aria-label="DOWNLOAD APK — reverse-siege.apk">
+  <title>Download Latest Android APK (reverse-siege.apk)</title>
+  <defs>
+    <linearGradient id="btnBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4ade80" />
+      <stop offset="48%" stop-color="#22c55e" />
+      <stop offset="100%" stop-color="#15803d" />
+    </linearGradient>
+    <linearGradient id="gloss" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.34" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+    <filter id="drop" x="-5%" y="-10%" width="110%" height="130%">
+      <feDropShadow dx="0" dy="3" stdDeviation="2.5" flood-color="#0d1f12" flood-opacity="0.45" />
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="416" height="52" rx="14" fill="url(#btnBg)" filter="url(#drop)" />
+  <rect x="3" y="3" width="414" height="24" rx="13" fill="url(#gloss)" />
+  <rect x="2" y="2" width="416" height="52" rx="14" fill="none" stroke="#f5b841" stroke-width="2" />
+
+  <!-- Android Icon Circle -->
+  <circle cx="38" cy="28" r="18" fill="#0f3617" fill-opacity="0.32" />
+  <g transform="translate(27, 17)" fill="#ffffff">
+    <path d="M14.7 5.9l1.3-2.2a.45.45 0 0 0-.78-.45l-1.32 2.28a7.8 7.8 0 0 0-5.8 0L6.78 3.25a.45.45 0 0 0-.78.45l1.3 2.2A7.1 7.1 0 0 0 3.2 11.8h15.6a7.1 7.1 0 0 0-4.1-5.9zM7.8 9.6a.85.85 0 1 1 0-1.7.85.85 0 0 1 0 1.7zm6.4 0a.85.85 0 1 1 0-1.7.85.85 0 0 1 0 1.7z" />
+    <rect x="3.5" y="13" width="15" height="6.2" rx="2" />
+  </g>
+
+  <!-- Primary CTA -->
+  <text x="72" y="26.5" fill="#ffffff" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="1.1">DOWNLOAD APK</text>
+  <text x="72" y="43.5" fill="#fef3c7" font-family="Consolas, Monaco, monospace, sans-serif" font-size="11.5" font-weight="700">reverse-siege.apk  •  Android 8.0+</text>
+
+  <!-- Right Arrow Pill -->
+  <rect x="348" y="14" width="54" height="28" rx="14" fill="#0f3617" fill-opacity="0.32" />
+  <path d="M375 20v12m0 0l-5-5m5 5l5-5" stroke="#fde047" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>

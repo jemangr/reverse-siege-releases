@@ -13,10 +13,16 @@
 
 <p align="center">
   <a href="https://github.com/jemangr/reverse-siege-releases/releases/latest/download/reverse-siege.apk">
-    <img src="https://img.shields.io/badge/📥_Download-Latest_APK-success?style=for-the-badge&logo=android" alt="Download Latest APK" />
+    <img src="screenshots/download-badge.svg" width="380" alt="Download Latest APK (reverse-siege.apk)" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://jemangr.app">
-    <img src="https://img.shields.io/badge/🌐_More_Apps-jemangr.app-orange?style=for-the-badge" alt="jemangr.app" />
+    <img src="https://img.shields.io/badge/More_Apps-jemangr.app-f59e0b?style=for-the-badge" alt="jemangr.app" />
+  </a>
+  <a href="https://github.com/jemangr/reverse-siege-releases/releases">
+    <img src="https://img.shields.io/badge/Releases-v1.0.0-22c55e?style=for-the-badge" alt="GitHub Releases" />
   </a>
 </p>
 
