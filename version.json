@@ -1,0 +1,13 @@
+{
+  "name": "Bastion Breaker: Reverse Siege",
+  "package": "app.jemangr.reversesiege",
+  "version": "1.0.0",
+  "version_code": 10000,
+  "release_date": "2026-11-22",
+  "author": "Giannis",
+  "website": "https://jemangr.app",
+  "download_apk_url": "https://github.com/jemangr/reverse-siege-releases/releases/latest/download/reverse-siege.apk",
+  "releases_url": "https://github.com/jemangr/reverse-siege-releases/releases",
+  "release_notes_el": "Έκδοση v1.0.0: ⚔️ Πρώτη κυκλοφορία του Bastion Breaker: Reverse Siege! Οδήγησε το Τάγμα των Σιδερένιων Μηχανικών (Κριός, Ασπιδοφόροι, Αλχημιστής Trebuchet, Μηχανικός Παγίδων), χάραξε δυναμικές διαδρομές (⇄) ακόμα και εν κινήσει, τύφλωσε πύργους με Καπνό, σπάσε τα 5 Φρούρια του Σιδηρού Συμβουλίου και αναβάθμισε το Εργαστήριο Πολιορκίας στο Option 1 Bouncy 3D στυλ!",
+  "release_notes_en": "Version v1.0.0: ⚔️ Launch of Bastion Breaker: Reverse Siege — Inverted Tower Defense! Command the Order of Iron Engineers (Battering Ram, Shield Wall, Alchemist Trebuchet, Sapper), plot and flip routes (⇄) even live mid-siege, blind towers with Smoke Veil, shatter 5 Crimson Citadel Fortresses, and upgrade in the Option 1 Bouncy 3D carved-wood Workshop!"
+}
