@@ -22,12 +22,12 @@
     <img src="https://img.shields.io/badge/More_Apps-jemangr.app-f59e0b?style=for-the-badge" alt="jemangr.app" />
   </a>
   <a href="https://github.com/jemangr/reverse-siege-releases/releases">
-    <img src="https://img.shields.io/badge/Releases-v1.0.0-22c55e?style=for-the-badge" alt="GitHub Releases" />
+    <img src="https://img.shields.io/badge/Releases-v1.1.0-22c55e?style=for-the-badge" alt="GitHub Releases" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v1.0.0-brightgreen" alt="Version v1.0.0" />
+  <img src="https://img.shields.io/badge/Version-v1.1.0-brightgreen" alt="Version v1.1.0" />
   <img src="https://img.shields.io/badge/Package-app.jemangr.reversesiege-blue" alt="Package app.jemangr.reversesiege" />
   <img src="https://img.shields.io/badge/Platform-Android%208.0%2B-purple" alt="Android 8.0+" />
   <img src="https://img.shields.io/badge/Languages-EL%20%7C%20EN-gold" alt="Languages EL | EN" />
@@ -46,26 +46,22 @@ Always get the latest official Android APK build from this permanent link:
 
 ---
 
-## ✨ Key Highlights (`v1.0.0`)
+## ✨ Key Highlights (`v1.1.0 — Living Castles & 5 Biomes`)
 
-- ⚔️ **Inverted Tower Defense (You Are the Invader):** Instead of placing towers, you recruit a custom siege convoy and plot the winning route through enemy castle crossroads (`⇄`)!
-- ⇄ **Dynamic Plan & Live Mid-Siege Re-Routing:** Compare enemy tower range rings in Planning Phase, and flip upcoming junctions live mid-battle as towers crumble.
-- 🛡️ **4 Distinct Siege Units:**
-  - **Battering Ram:** Heavy armor (`-55%` arrow damage) + `×3.6` Gate & Keep smash power.
-  - **Shield Wall:** Projects an Aegis Dome blocking `72%` of Archer arrows & `40%` of Cannon splash for trailing units.
-  - **Alchemist Trebuchet:** Lobs parabolic alchemical firebombs from long range for `×2.35` Tower damage.
-  - **Sapper Engineer:** Auto-disarms **Iron Spike Traps** ahead and heals nearby allies.
-- 💨 **3 Commander Powers:** Blind towers with **Smoke Veil (`5.5s`)**, heal the convoy with **Field Repair (`4.5s`)**, or drop a 3-shot **Meteor Barrage**.
-- 🏰 **5-Chapter Story Campaign & Carved-Wood 3D UI:** Follow Grand Engineer Volkan across 5 Fortresses in Bastion Breaker's **Option 1 Bouncy 3D** wood HUD with Workshop Upgrades, Fortune Wheel, Greek/English localization & studio Web Audio.
-- 🔄 **Automatic 6-Hour Update Checker:** Checks `version.json` silently every 6 hours + one-tap check in Settings, with **Our Other Apps** listing all 13 apps from [jemangr.app](https://jemangr.app).
+- 🏰 **3-Zone Living Castles & Scroll Camera (`390×1100`):** Scroll vertically across **Outer Moat & Drawbridges**, **Inner Guardhouse Walls**, and the **Citadel Keep Sanctum** via touch drag, wheel, right-side quick-camera medallions, and a live **Vertical Depth Minimap** bar.
+- 🌍 **5 Bespoke 3D Biomes:** Battle across **Ashen Grasslands**, **Lava Embers**, **Mossy Dungeons**, **Frozen Bastion**, and the **Crimson Royal Citadel**, complete with animated water/lava/moss/ice moats, wooden drawbridges, flickering iron braziers, weathered boulders, barricades, craters & stuck arrows.
+- 💣 **Powder Barrels, Loot Chests & Guard Ambushes:** Blast **Powder Barrels** with the Alchemist Trebuchet (or tap to detonate during battle!) for `220+` AoE chain damage, raid flanking **Iron Loot Chests** for bonus Gold & Blueprints, and Clash through emerging **Iron Legion Foot Guards**.
+- 🔥 **Sweeping Dragon Flame Cones & ⇄ Mid-Siege Re-Routing:** Dodge real sweeping **Dragon Flame Cones**, compare tower range rings, and flip multi-courtyard junctions (`J1`/`J2`) live mid-battle as towers fall.
+- 🛡️ **4 Siege Units & 3 Commander Powers:** Command **Battering Rams** (with lunge recoil), **Shield Walls** (`74%` Aegis arrow dome), **Alchemist Trebuchets**, and **Sapper Engineers**, backed by **Smoke Veil**, **Field Repair**, and **Meteor Barrage**.
+- 🔄 **Automatic 6-Hour Update Checker & Carved-Wood 3D UI:** Greek/English localization, Workshop Upgrades, Fortune Wheel, and **Our Other Apps** from [jemangr.app](https://jemangr.app).
 
 ---
 
 ## 📸 Screenshots Gallery
 
-| 1. Route Planning (`⇄`) & Convoy | 2. Live Siege, Aegis Dome & Gate Smash | 3. Smoke Veil, Barrage & Mid-Siege Flank |
+| 1. Biome 1 Grasslands, Moat & Route (`⇄`) | 2. Powder Barrel Blast, Guards & Gate Smash | 3. Biome 2 Lava, Dragon Flame & Smoke Veil |
 | :---: | :---: | :---: |
-| <img src="screenshots/rs_01_plan_route.png" width="220" alt="Route Planning & Convoy" /> | <img src="screenshots/rs_02_live_siege.png" width="220" alt="Live Siege & Shield Dome" /> | <img src="screenshots/rs_03_flank_smoke.png" width="220" alt="Smoke Veil & Mid-Siege Flank" /> |
+| <img src="screenshots/rs_01_plan_route.png" width="220" alt="Biome 1 Grasslands Route Planning" /> | <img src="screenshots/rs_02_live_siege.png" width="220" alt="Powder Barrel Blast and Gate Smash" /> | <img src="screenshots/rs_03_flank_smoke.png" width="220" alt="Lava Biome Dragon Flame and Smoke Veil" /> |
 
 | 4. 5-Chapter Story Campaign | 5. Siege Workshop Upgrades | 6. Citadel Shattered (3★ Victory) |
 | :---: | :---: | :---: |

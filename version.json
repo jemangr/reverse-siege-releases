@@ -1,13 +1,13 @@
 {
   "name": "Bastion Breaker: Reverse Siege",
   "package": "app.jemangr.reversesiege",
-  "version": "1.0.0",
-  "version_code": 10000,
+  "version": "1.1.0",
+  "version_code": 10100,
   "release_date": "2026-11-22",
   "author": "Giannis",
   "website": "https://jemangr.app",
   "download_apk_url": "https://github.com/jemangr/reverse-siege-releases/releases/latest/download/reverse-siege.apk",
   "releases_url": "https://github.com/jemangr/reverse-siege-releases/releases",
-  "release_notes_el": "Έκδοση v1.0.0: ⚔️ Πρώτη κυκλοφορία του Bastion Breaker: Reverse Siege! Οδήγησε το Τάγμα των Σιδερένιων Μηχανικών (Κριός, Ασπιδοφόροι, Αλχημιστής Trebuchet, Μηχανικός Παγίδων), χάραξε δυναμικές διαδρομές (⇄) ακόμα και εν κινήσει, τύφλωσε πύργους με Καπνό, σπάσε τα 5 Φρούρια του Σιδηρού Συμβουλίου και αναβάθμισε το Εργαστήριο Πολιορκίας στο Option 1 Bouncy 3D στυλ!",
-  "release_notes_en": "Version v1.0.0: ⚔️ Launch of Bastion Breaker: Reverse Siege — Inverted Tower Defense! Command the Order of Iron Engineers (Battering Ram, Shield Wall, Alchemist Trebuchet, Sapper), plot and flip routes (⇄) even live mid-siege, blind towers with Smoke Veil, shatter 5 Crimson Citadel Fortresses, and upgrade in the Option 1 Bouncy 3D carved-wood Workshop!"
+  "release_notes_el": "Έκδοση v1.1.0: 🏰 The Living Castle Overhaul! Πίστα 390×1100px με camera scroll & χάρτη βάθους, 5 μοναδικά 3D Biomes (Τάφρος Νερού, Λάβα Δράκων, Βρυώδη Μπουντρούμια, Χιονισμένος Προμαχώνας, Βασιλικό Χαλί), εσωτερικά τείχη & ξύλινες γέφυρες, Βαρέλια Πυρίτιδας, Σεντούκια Λαφύρων, Φρουροί Iron Legion & ρεαλιστικός Κώνος Φωτιάς!",
+  "release_notes_en": "Version v1.1.0: 🏰 The Living Castle Overhaul! Deep 390×1100px scrolling fortresses with camera nav & depth minimap, 5 custom 3D PBR Biomes, inner dividing castle walls, moats & wooden drawbridges, chain-reaction Powder Barrels, Bonus Loot Chests, Iron Legion Foot Guards, real Dragon Flame Cones & Ram impact recoil!"
 }
