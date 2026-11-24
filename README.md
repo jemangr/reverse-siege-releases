@@ -22,12 +22,12 @@
     <img src="https://img.shields.io/badge/More_Apps-jemangr.app-f59e0b?style=for-the-badge" alt="jemangr.app" />
   </a>
   <a href="https://github.com/jemangr/reverse-siege-releases/releases">
-    <img src="https://img.shields.io/badge/Releases-v2.0.0-22c55e?style=for-the-badge" alt="GitHub Releases" />
+    <img src="https://img.shields.io/badge/Releases-v2.0.1-22c55e?style=for-the-badge" alt="GitHub Releases" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v2.0.0-brightgreen" alt="Version v2.0.0" />
+  <img src="https://img.shields.io/badge/Version-v2.0.1-brightgreen" alt="Version v2.0.1" />
   <img src="https://img.shields.io/badge/Package-app.jemangr.reversesiege-blue" alt="Package app.jemangr.reversesiege" />
   <img src="https://img.shields.io/badge/Platform-Android%208.0%2B-purple" alt="Android 8.0+" />
   <img src="https://img.shields.io/badge/Languages-EL%20%7C%20EN-gold" alt="Languages EL | EN" />
@@ -46,8 +46,9 @@ Always get the latest official Android APK build from this permanent link:
 
 ---
 
-## ✨ Key Highlights (`v2.0.0 — Overhaul Edition`)
+## ✨ Key Highlights (`v2.0.1`)
 
+- 🛡️ **New Heraldic App Icon:** Chiseled forged steel battering ram with hammered bronze horns, glowing amber eyes, and molten rim light on dark cracked slate.
 - 🏰 **5 Bespoke WebGL2 PBR 2.5D Terrains (`780×2200`) & 8 Fortress Topologies (`T1..T8`):** Seamless vertical realms across **5 biomes**, continuous **2.5D Stone Curtain Walls** with masonry bastion piers anchoring every Gate, organic midpoint-quadratic Bezier roads (`sampleSpline`), and **mathematically aligned Bridges** placed at exact `road × moatCenterY` intersections.
 - 🔒 **Locked Progressive 50-Chapter Campaign + Daily Siege:** Chapters `2–50` unlock sequentially as you shatter each predecessor (every 10th chapter is a **Boss Citadel** with Keep Bombard & Royal Sorties), plus a **Daily Siege** seeded procedural fortress mode.
 - 🎯 **Deep Tactical Counters & Mid-Siege Squad Split (`⇄`):** Tight starting budget (`300g–452g`), non-Ram Gate armor (`0.35×`), Flame ignoring Shield domes (`1.35×` damage), Mortar telegraphs, Frost slow aura, Acid anti-heal traps, and rear-junction flipping mid-battle (`⇄`) to split convoys onto flanking lanes.

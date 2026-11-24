@@ -1,13 +1,13 @@
 {
   "name": "Bastion Breaker: Reverse Siege",
   "package": "app.jemangr.reversesiege",
-  "version": "2.0.0",
-  "version_code": 20000,
-  "release_date": "2026-11-22",
+  "version": "2.0.1",
+  "version_code": 20001,
+  "release_date": "2026-11-24",
   "author": "Giannis",
   "website": "https://jemangr.app",
   "download_apk_url": "https://github.com/jemangr/reverse-siege-releases/releases/latest/download/reverse-siege.apk",
   "releases_url": "https://github.com/jemangr/reverse-siege-releases/releases",
-  "release_notes_el": "Έκδοση v2.0.0: 🏰 Μεγάλη Αναβάθμιση! Κλειδωμένη εκστρατεία 50 κεφαλαίων, Ημερήσια Πολιορκία, 8 ξεχωριστές αρχιτεκτονικές χαρτών, συνεχή τείχη & αυτόματα ευθυγραμμισμένες γέφυρες, 5 νέα 2.5D terrains, Tap-to-Aim δυνάμεις, Split φάλαγγας εν κινήσει & πραγματική ισορροπία δυσκολίας!",
-  "release_notes_en": "Version v2.0.0: 🏰 Major Gameplay & Visual Overhaul! Progressive locked 50-Chapter Campaign + Daily Siege, 8 distinct castle layouts (T1-T8), continuous Curtain Walls, exact spline-aligned Bridges, 5 WebGL2 2.5D outdoor/citadel terrains, Tap-to-Aim limited powers, mid-siege Squad Split, Mortar/Frost/Acid counters & verified 50-stage balance!"
+  "release_notes_el": "Έκδοση v2.0.1: 🛡️ Νέο επιβλητικό εραλδικό εικονίδιο εφαρμογής (σφυρηλατημένος πολιορκητικός κριός από ατσάλι & σκαλιστό μπρούντζο), ανανεωμένα assets και διορθώσεις.",
+  "release_notes_en": "Version v2.0.1: 🛡️ Sleek new heraldic app icon (chiseled forged steel ram with hammered bronze horns), refreshed visual assets and optimizations."
 }
